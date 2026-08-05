@@ -27,14 +27,12 @@ Sou **Mateus Romero de Freitas**, estudante de **Engenharia de Computação** na
 
 - 🛡️ **Cybersecurity & Infra:** Fundador da **Karman Cybersecurity**, focando em operações web e Pentest.
 - ☁️ **Back-end:** Desenvolvimento de microsserviços e arquiteturas de proxy com **Spring Boot, Java e Python**.
-- ✈️ **Sistemas Embarcados:** Membro do **Carancho AeroDesign**, construindo sistemas de redundância ativa (Arduino) para servos de alta voltagem.
-- 🏎️ **Hobbies:** Quando não estou codando, estou na garagem restaurando meu **Chevette DL 1991** ou acelerando em simuladores de corrida (Assetto Corsa, Live for Speed).
 
 ---
 
 ## 🚀 O que estou desenvolvendo
 
-- **Dolphin Guardian:** Arquitetura de proxy back-end utilizando Spring Cloud Gateway, Docker e Nginx.
+- **Karman Guardian:** Arquitetura de proxy back-end utilizando Spring Cloud Gateway, Docker e Nginx.
 - **Karman Cybersecurity:** Estruturação de segurança, host e implementações técnicas do zero.
 - **Carancho AeroDesign:** Eletrônica embarcada e cálculos de propulsão (motores Emax/Skystars) para modelos de voo.
 - **Estudos e Certificações:** Trilha do Google Cloud Engineering Certificate e Pentest Prático.
@@ -65,7 +63,7 @@ Sou **Mateus Romero de Freitas**, estudante de **Engenharia de Computação** na
 
 ## ⭐ Projetos em destaque
 
-- **Dolphin Guardian** — API Gateway e ecossistema de microsserviços seguros.
+- **Karman Guardian** — API Gateway e ecossistema de microsserviços seguros.
 - **Sistemas de Redundância (Carancho)** — Módulo de backup ativo em C++/Arduino para controle de voo.
 - **Infraestrutura Karman** — Deploy, hospedagem e segurança de rede web.
 
