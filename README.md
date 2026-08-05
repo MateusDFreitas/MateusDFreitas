@@ -70,14 +70,6 @@ Sou **Mateus Romero de Freitas**, estudante de **Engenharia de Computação** na
 ---
 
 ## 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/MateusDFreitas">
-    <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MateusDFreitas&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/MateusDFreitas">
-    <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDFreitas&layout=compact&langs_count=8&theme=nord"/>
-  </a>
   <a href="https://github.com/MateusDFreitas">
     <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=MateusDFreitas&theme=nord&hide_border=true"/>
   </a>
@@ -105,10 +97,6 @@ Sou **Mateus Romero de Freitas**, estudante de **Engenharia de Computação** na
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
   <img alt="snake animation" src="github-contribution-grid-snake.svg">
 </picture>
-
-<p align="center">
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=MateusDFreitas&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
-</p>
 
 <footer>
   <img width="100%" alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=4C566A&height=120&section=footer"/>
