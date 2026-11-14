@@ -73,9 +73,6 @@ Sou **Mateus Romero de Freitas**, estudante de **Engenharia de Computação** na
   <a href="https://github.com/MateusDFreitas">
     <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=MateusDFreitas&theme=nord&hide_border=true"/>
   </a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MateusDFreitas&theme=nord"/>
-  </a>
 </div>
 
 ---
