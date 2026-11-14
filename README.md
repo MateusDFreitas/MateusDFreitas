@@ -70,11 +70,12 @@ Sou **Mateus Romero de Freitas**, estudante de **Engenharia de Computação** na
 ---
 
 ## 📊 Estatísticas
+<p align="center">
   <a href="https://github.com/MateusDFreitas">
     <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=MateusDFreitas&theme=nord&hide_border=true"/>
   </a>
 </div>
-
+</p>
 ---
 
 ## 🌐 Contato
